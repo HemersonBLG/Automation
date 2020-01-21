@@ -1,0 +1,5 @@
+cnpj = '02.798.920/0001-22'
+familiaCod = '1'
+produtoCod = '13'
+modalidadeCod = '16'
+eventoCod = '5'
